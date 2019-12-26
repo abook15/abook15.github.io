@@ -5,17 +5,17 @@ body {
   width: 100%;
   }
   
-  h1 {
+h1 {
   font-size: 32px;
   font-family: Palatino, 'Palatino Linotype;, serif;
   color:LightGreenOlive
   }
   
-  h2 {
+h2 {
     font-size: 56px;
     }
     
-    .hero {
+.hero {
       background-image:
       url("IMG_0118.JPG");
       background-size:cover;
@@ -24,7 +24,12 @@ body {
       padding: 250px 0;
       margin: 30px;
       }
+.hero a {
+  color: #00FFAA;
+  font-size: 1.25em;
+  text-decoration: none;
+}
       
-      #footer {
-        font-size: 0.75rem;
+#footer {
+ font-size: 0.75rem;
       }
