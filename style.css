@@ -16,13 +16,12 @@ h2 {
     }
     
 .hero {
-      background-image:
-      url("IMG_0118.JPG");
-      background-size:cover;
-      font-family: 'Trebuchet MS', Helvetica, sans-serif;
-      color:#ffffff;
-      padding: 250px 0;
-      margin: 30px;
+  background-image:url("IMG_0118.JPG");
+  background-size:cover;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color:#ffffff;
+  padding: 250px 0;
+  margin: 30px;
       }
 .hero a {
   color: #00FFAA;
